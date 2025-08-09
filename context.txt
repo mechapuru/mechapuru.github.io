@@ -1,3 +1,4 @@
 This repository is for creating my personal webpage on github,
 My Git username is mechapuru, I havent purchased any domain so I will be using githubs given domain for personal webpage.
 Here I have a clone of a personal website that I want to use as a template.
+I have added the remote branch to this one and also pushed this one at its current stage,
