@@ -1,0 +1,9 @@
+Remove/replace placeholder sections. “Micropapers,” “Recorded Talks,” “Academic Service,” and “Teaching” point to others’ material (e.g., CVPR/ICCV roles, Berkeley courses). Either delete or replace with your own entries.
+mechapuru.github.io
+
+Add a Publications section. You list two papers in your resume—surface them here with venue/year, links (paper/DOI/arXiv), and a one-line takeaway. Add a Copy BibTeX button for each.
+
+Hero block CTA. Add buttons for CV, Google Scholar, GitHub, and Email right under your name.
+
+Project cards → add links. Your project blurbs are good; add “Paper | Code | Video | Poster” badges under each card. Use short demo GIFs.
+mechapuru.github.io
